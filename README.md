@@ -3,7 +3,7 @@
 This is my project repo for ECE 433.
 
 
-This is for the Color sensor with TFT display
+This is for the Color sensor with TFT display on the ATMEGA324PA
 
 
 
